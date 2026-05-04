@@ -3,8 +3,6 @@
 ### 1. Gestor de Contactos con Favoritos
 Aplicación que permite registrar contactos, visualizarlos en una lista, marcarlos como favoritos, eliminarlos y navegar entre pantallas utilizando Jetpack Compose.
 
-**→ [Ver](./app/src/main/java/com/example/gestorcontactos/)**
-
 ## 🛠️ Tecnologías Utilizadas
 - Kotlin
 - Jetpack Compose
